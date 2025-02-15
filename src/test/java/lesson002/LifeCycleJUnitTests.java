@@ -6,7 +6,7 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 
 @TestInstance(TestInstance.Lifecycle.PER_CLASS)
 @TestMethodOrder(MethodOrderer.class)
-public class LiveCycleJUnitTests {
+public class LifeCycleJUnitTests {
     @BeforeAll
     void setUpAll() {
         System.out.println(" --> Before all Tests");
