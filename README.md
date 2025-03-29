@@ -1,2 +1,2 @@
 # AQACourse
-Java Automation QA Course from Gennadii Chursov
+2025 Java Automation QA Course from Gennadii Chursov
